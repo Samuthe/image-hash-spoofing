@@ -58,5 +58,5 @@ def spoof_image(prefix, input_image, output_image, max_attempts=1000):
     print("Failed to spoof image within max attempts.")
     
 # Test the function
-spoof_image('99', 'original.png', 'spoofed.png')
+# spoof_image('99', 'original.png', 'spoofed.png')
 
